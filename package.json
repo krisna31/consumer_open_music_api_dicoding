@@ -1,0 +1,31 @@
+{
+  "name": "consumer_backend_menengah_dicoding",
+  "version": "1.0.0",
+  "description": "consumer for open music api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krisna31/consumer_backend_menengah_dicoding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krisna31/consumer_backend_menengah_dicoding/issues"
+  },
+  "homepage": "https://github.com/krisna31/consumer_backend_menengah_dicoding#readme",
+  "dependencies": {
+    "amqplib": "^0.8.0",
+    "dotenv": "^10.0.0",
+    "nodemailer": "^6.6.1",
+    "pg": "^8.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.30.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
