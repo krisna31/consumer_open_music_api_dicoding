@@ -35,6 +35,6 @@ RABBITMQ_SERVER=amqp://localhost
 ```bash
 $ git clone https://github.com/krisna31/consumer_open_music_api_dicoding
 $ cd consumer_open_music_api_dicoding
-$ npm install
+$ npm install OR `$ npm i`
 $ node ./src/consumer.js
 ```
